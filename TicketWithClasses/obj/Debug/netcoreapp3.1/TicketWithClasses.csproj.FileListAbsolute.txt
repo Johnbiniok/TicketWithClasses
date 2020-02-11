@@ -1,0 +1,11 @@
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/bin/Debug/netcoreapp3.1/TicketWithClasses
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/bin/Debug/netcoreapp3.1/TicketWithClasses.deps.json
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/bin/Debug/netcoreapp3.1/TicketWithClasses.runtimeconfig.json
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/bin/Debug/netcoreapp3.1/TicketWithClasses.runtimeconfig.dev.json
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/bin/Debug/netcoreapp3.1/TicketWithClasses.dll
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/bin/Debug/netcoreapp3.1/TicketWithClasses.pdb
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/obj/Debug/netcoreapp3.1/TicketWithClasses.csprojAssemblyReference.cache
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/obj/Debug/netcoreapp3.1/TicketWithClasses.AssemblyInfoInputs.cache
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/obj/Debug/netcoreapp3.1/TicketWithClasses.AssemblyInfo.cs
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/obj/Debug/netcoreapp3.1/TicketWithClasses.dll
+/Users/johnbiniok/RiderProjects/TicketWithClasses/TicketWithClasses/obj/Debug/netcoreapp3.1/TicketWithClasses.pdb
