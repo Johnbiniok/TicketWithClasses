@@ -95,16 +95,13 @@ namespace TicketWithClasses
 
         static void userMenu()
         {
-            string userChoice;
+            string userChoice = "";
+
             do
             {
+                uMenu forUser = new uMenu();
 
-                Console.WriteLine("1. Write File ");
-                Console.WriteLine("2. Read File ");
-                Console.WriteLine("3. Exit ");
-                userChoice = Console.ReadLine();
-
-                switch (userChoice)
+                switch (forUser.getuserChoice())
                 {
                     case "1":
                         writeFile();
@@ -113,6 +110,7 @@ namespace TicketWithClasses
                         readFile();
                         break;
                     case "3":
+                        userChoice = "3";
                         System.Environment.Exit(0);
                         break;
                 }
@@ -121,6 +119,7 @@ namespace TicketWithClasses
 
         static void writeFile()
         {
+            TicketFile tFile = new TicketFile();
             string summary = "";
             string status = "";
             string priority = "";
