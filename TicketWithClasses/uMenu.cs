@@ -12,18 +12,6 @@ namespace TicketWithClasses
             Console.WriteLine("3. Exit ");
             userChoice = Console.ReadLine();
 
-            /*switch (userChoice)
-            {
-                case "1":
-                    writeFile();
-                    break;
-                case "2":
-                    readFile();
-                    break;
-                case "3":
-                    System.Environment.Exit(0);
-                    break;
-            }*/
         }
 
         public string getuserChoice()
