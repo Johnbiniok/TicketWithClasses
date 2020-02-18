@@ -45,7 +45,6 @@ namespace TicketWithClasses
             {
                 Console.Write("Would you like to make an entry?(Y/N)");
                 userStart = Console.ReadLine();
-                String[] userFull = new string[7];
                 if (userStart.Equals("Y") || userStart.Equals("y"))
                 {
                     TicketInfo tiNew = new TicketInfo();
